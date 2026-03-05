@@ -12,7 +12,7 @@ export default function TimelinePage() {
           </span>
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Timeline KP</h1>
           <p className="text-white/80 text-lg max-w-2xl mx-auto">
-            Rangkaian kegiatan selama 3 bulan program Kerja Praktik dari awal hingga akhir.
+            Rangkaian kegiatan selama 1,5 bulan program Kerja Praktik dari awal hingga akhir.
           </p>
         </div>
       </div>

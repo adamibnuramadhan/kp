@@ -5,7 +5,6 @@ import Home from './pages/Home'
 import GalleryPage from './pages/GalleryPage'
 import TimelinePage from './pages/TimelinePage'
 import TeamPage from './pages/TeamPage'
-import ContactPage from './pages/ContactPage'
 
 export default function App() {
   return (
@@ -18,7 +17,6 @@ export default function App() {
             <Route path="/gallery" element={<GalleryPage />} />
             <Route path="/timeline" element={<TimelinePage />} />
             <Route path="/team" element={<TeamPage />} />
-            <Route path="/contact" element={<ContactPage />} />
           </Routes>
         </main>
         <Footer />

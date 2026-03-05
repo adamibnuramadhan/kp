@@ -25,7 +25,6 @@ export default function Footer() {
               <li><Link to="/gallery" className="hover:text-orange-400 transition">Gallery</Link></li>
               <li><Link to="/timeline" className="hover:text-orange-400 transition">Timeline</Link></li>
               <li><Link to="/team" className="hover:text-orange-400 transition">Tim Kami</Link></li>
-              <li><Link to="/contact" className="hover:text-orange-400 transition">Kontak</Link></li>
             </ul>
           </div>
 
