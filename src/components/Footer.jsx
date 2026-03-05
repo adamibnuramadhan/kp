@@ -41,7 +41,7 @@ export default function Footer() {
                 <span>📸</span> @Adamibnu02
               </a>
               <a
-                href="mailto:kp.pertamina@email.com"
+                href="mailto:Adamibnu02@gmail.com"
                 className="flex items-center gap-2 hover:text-orange-400 transition"
               >
                 <span>📧</span> Adamibnu02@gmail.com
