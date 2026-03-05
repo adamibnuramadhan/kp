@@ -32,7 +32,7 @@ export default function TeamPage() {
           <blockquote className="text-lg font-medium text-gray-700 italic mb-2">
             "Bersama kita bisa mencapai lebih banyak hal."
           </blockquote>
-          <p className="text-sm text-gray-500">— Tim KP Pertamina 2025</p>
+          <p className="text-sm text-gray-500">— Tim KP Pertamina 2026</p>
         </div>
       </div>
     </div>
