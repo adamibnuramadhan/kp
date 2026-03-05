@@ -12,8 +12,8 @@ export default function Footer() {
               <span className="font-bold text-lg text-orange-400">KP Pertamina</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Dokumentasi kegiatan Kerja Praktik di PT Pertamina (Persero).
-              Penuh semangat, kolaborasi, dan kenangan tak terlupakan.
+              Dokumentasi kegiatan Kerja Praktik di PSTB.
+              Sangat Seru dan penuh cerita.
             </p>
           </div>
 
@@ -38,20 +38,20 @@ export default function Footer() {
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-pink-400 transition"
               >
-                <span>📸</span> @kp.pertamina
+                <span>📸</span> @Adamibnu02
               </a>
               <a
                 href="mailto:kp.pertamina@email.com"
                 className="flex items-center gap-2 hover:text-orange-400 transition"
               >
-                <span>📧</span> kp.pertamina@email.com
+                <span>📧</span> Adamibnu02@gmail.com
               </a>
             </div>
           </div>
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-6 text-center text-sm text-gray-500">
-          <p>© 2025 KP Pertamina. Dibuat dengan ❤️ oleh Tim Magang Pertamina.</p>
+          <p>© 2026 KP Pertamina. Dibuat dengan ❤️ oleh Tim Magang PSTB.</p>
         </div>
       </div>
     </footer>
