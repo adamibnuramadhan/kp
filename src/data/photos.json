@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Hari Pertama di Pertamina",
+    "description": "Hari pertama kami tiba di kantor Pertamina, penuh semangat dan antusias!",
+    "src": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Sesi Briefing Tim",
+    "description": "Briefing pagi bersama tim untuk membahas target kerja harian.",
+    "src": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Diskusi Proyek",
+    "description": "Berdiskusi bersama rekan-rekan magang mengenai proyek yang sedang berjalan.",
+    "src": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=400&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Kunjungan Lapangan",
+    "description": "Kunjungan ke fasilitas produksi untuk melihat langsung proses kerja.",
+    "src": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Presentasi Midterm",
+    "description": "Mempresentasikan hasil kerja semester pertama kepada para pembimbing.",
+    "src": "https://images.unsplash.com/photo-1560439514-4e9645039924?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1560439514-4e9645039924?w=400&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Makan Siang Bersama",
+    "description": "Menikmati makan siang bersama tim di kantin perusahaan.",
+    "src": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=400&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Workshop Keselamatan",
+    "description": "Mengikuti workshop keselamatan kerja yang diadakan oleh departemen HSE.",
+    "src": "https://images.unsplash.com/photo-1530099486328-e021101a494a?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1530099486328-e021101a494a?w=400&q=80"
+  },
+  {
+    "id": 8,
+    "title": "Outing Tim",
+    "description": "Kegiatan outing tim untuk mempererat hubungan antar anggota.",
+    "src": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=400&q=80"
+  },
+  {
+    "id": 9,
+    "title": "Presentasi Akhir",
+    "description": "Presentasi hasil kerja magang di hadapan pimpinan perusahaan.",
+    "src": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=400&q=80"
+  }
+]
