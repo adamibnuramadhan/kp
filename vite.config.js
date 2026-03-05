@@ -9,5 +9,11 @@ export default defineConfig({
     port: 5175, // Ganti port menjadi 5175
     open: true, // Membuka browser secara otomatis
     host: true, // Memungkinkan akses eksternal
+    allowedHosts: [
+      'resonant-sopapillas-8d2c69.netlify.app',
+      'localhost',
+      '127.0.0.1',
+      '.netlify.app',
+    ],
   },
 })
