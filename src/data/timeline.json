@@ -15,44 +15,44 @@
   },
   {
     "id": 3,
-    "date": "17 Februari 2025",
-    "title": "Mulai Proyek Pertama",
-    "description": "Pembagian proyek magang dan mulai bekerja pada tugas masing-masing. Tim kami dibagi menjadi beberapa kelompok sesuai dengan bidang keahlian.",
+    "date": "-",
+    "title": "-",
+    "description": "-",
     "photo": null
   },
   {
     "id": 4,
-    "date": "5 Maret 2025",
-    "title": "Kunjungan Lapangan",
-    "description": "Kunjungan ke fasilitas produksi dan kilang untuk melihat langsung proses operasional. Pengalaman luar biasa melihat skala operasi Pertamina.",
-    "photo": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&q=80&fit=crop"
+    "date": "-",
+    "title": "-",
+    "description": "-",
+    "photo": "-"
   },
   {
     "id": 5,
-    "date": "19 Maret 2025",
-    "title": "Presentasi Midterm",
-    "description": "Mempresentasikan perkembangan proyek kepada pembimbing dan manajemen. Mendapat masukan berharga untuk perbaikan di paruh kedua magang.",
-    "photo": "https://images.unsplash.com/photo-1560439514-4e9645039924?w=600&q=80&fit=crop"
+    "date": "-",
+    "title": "-",
+    "description": "-",
+    "photo": "-"
   },
   {
     "id": 6,
-    "date": "2 April 2025",
-    "title": "Outing & Team Building",
-    "description": "Kegiatan team building yang memperkuat hubungan antar peserta magang. Penuh tawa dan kenangan indah bersama teman-teman baru.",
-    "photo": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=600&q=80&fit=crop"
+    "date": "-",
+    "title": "-",
+    "description": "-",
+    "photo": "-"
   },
   {
     "id": 7,
-    "date": "28 April 2025",
-    "title": "Presentasi Akhir",
-    "description": "Presentasi final hasil kerja magang di hadapan para manajer dan direktur. Bangga dapat menunjukkan kontribusi kami selama 3 bulan.",
-    "photo": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=600&q=80&fit=crop"
+    "date": "-",
+    "title": "-",
+    "description": "-",
+    "photo": "-"
   },
   {
     "id": 8,
-    "date": "30 April 2025",
-    "title": "Pelepasan & Perpisahan",
-    "description": "Acara pelepasan peserta magang yang diisi dengan pemberian sertifikat, foto bersama, dan pesan-pesan dari pembimbing. Terima kasih Pertamina!",
+    "date": "-",
+    "title": "-",
+    "description": "-",
     "photo": null
   }
 ]
