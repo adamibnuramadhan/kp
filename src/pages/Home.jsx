@@ -2,8 +2,8 @@ import { Link } from 'react-router-dom'
 
 const highlights = [
   { icon: '📸', label: '9+ Foto Dokumentasi' },
-  { icon: '👥', label: '6 Peserta Magang' },
-  { icon: '📅', label: '3 Bulan Program' },
+  { icon: '👥', label: '12 Peserta Magang' },
+  { icon: '📅', label: '1,5 Bulan Program' },
   { icon: '🏭', label: 'PT Pertamina (Persero)' },
 ]
 
@@ -29,7 +29,7 @@ export default function Home() {
             </span>
           </h1>
           <p className="text-lg md:text-xl text-white/90 mb-8 leading-relaxed">
-            Tiga bulan perjalanan belajar, berkarya, dan bertumbuh bersama
+            Satu setengah bulan perjalanan belajar, berkarya, dan bertumbuh bersama
             di PT Pertamina (Persero). Setiap momen penuh makna dan kenangan.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -82,7 +82,7 @@ export default function Home() {
               energi terbesar di Indonesia.
             </p>
             <p className="text-gray-500 leading-relaxed mb-6">
-              Selama 3 bulan, kami terlibat dalam berbagai proyek nyata, mendapat
+              Selama 1,5 bulan, kami terlibat dalam berbagai proyek nyata, mendapat
               bimbingan dari para profesional berpengalaman, dan membangun jaringan
               yang berharga untuk karier ke depan.
             </p>
@@ -131,12 +131,6 @@ export default function Home() {
               className="px-8 py-3 bg-white text-red-600 font-bold rounded-full shadow-lg hover:bg-orange-50 transition-all duration-200 hover:-translate-y-0.5"
             >
               Buka Gallery →
-            </Link>
-            <Link
-              to="/contact"
-              className="px-8 py-3 bg-white/20 border border-white/40 text-white font-semibold rounded-full hover:bg-white/30 transition-all duration-200 hover:-translate-y-0.5"
-            >
-              Hubungi Kami
             </Link>
           </div>
         </div>

@@ -40,5 +40,47 @@
     "role": "Mahasiswi Akuntansi",
     "description": "Membantu departemen keuangan dalam pelaporan dan analisis anggaran proyek.",
     "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Fajar Ramadhan",
+    "role": "Mahasiswa Teknik Informatika",
+    "description": "Mengembangkan aplikasi internal untuk mendukung proses bisnis perusahaan.",
+    "photo": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Rina Marlina",
+    "role": "Mahasiswi Teknik Lingkungan",
+    "description": "Menganalisis dampak lingkungan dan mendukung program kepatuhan HSE perusahaan.",
+    "photo": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Hendra Wijaya",
+    "role": "Mahasiswa Manajemen",
+    "description": "Membantu tim manajerial dalam perencanaan strategis dan analisis kinerja.",
+    "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Putri Ayu",
+    "role": "Mahasiswi Teknik Kimia",
+    "description": "Melakukan riset formulasi bahan bakar dan pengujian kualitas produk kilang.",
+    "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Dimas Arya",
+    "role": "Mahasiswa Teknik Sipil",
+    "description": "Terlibat dalam proyek konstruksi dan pemeliharaan infrastruktur fasilitas produksi.",
+    "photo": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=400&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Laila Fitri",
+    "role": "Mahasiswi Hubungan Internasional",
+    "description": "Mendukung departemen komunikasi korporat dan hubungan eksternal perusahaan.",
+    "photo": "https://images.unsplash.com/photo-1554151228-14d9def656e4?w=400&q=80"
   }
 ]

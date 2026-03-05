@@ -6,7 +6,6 @@ const navLinks = [
   { to: '/gallery', label: 'Gallery' },
   { to: '/timeline', label: 'Timeline' },
   { to: '/team', label: 'Tim' },
-  { to: '/contact', label: 'Kontak' },
 ]
 
 export default function Navbar() {
