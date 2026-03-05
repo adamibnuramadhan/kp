@@ -4,7 +4,7 @@ const highlights = [
   { icon: '📸', label: '9+ Foto Dokumentasi' },
   { icon: '👥', label: '12 Peserta Magang' },
   { icon: '📅', label: '1,5 Bulan Program' },
-  { icon: '🏭', label: 'PT Pertamina (Persero)' },
+  { icon: '🏭', label: 'PSTB' },
 ]
 
 export default function Home() {
@@ -13,7 +13,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative min-h-[80vh] flex items-center justify-center overflow-hidden">
         <img
-          src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=1400&q=80"
+          src="https://i.postimg.cc/Ss7mjPMx/Whats-App-Image-2026-03-05-at-23-09-04.jpg"
           alt="Pertamina Office"
           className="absolute inset-0 w-full h-full object-cover"
         />
@@ -23,7 +23,6 @@ export default function Home() {
             <span>⛽</span> Kerja Praktik 2025
           </div>
           <h1 className="text-4xl md:text-6xl font-extrabold mb-4 leading-tight">
-            Kenangan
             <span className="block bg-gradient-to-r from-yellow-300 to-orange-300 bg-clip-text text-transparent">
               KP Pertamina
             </span>
@@ -77,7 +76,7 @@ export default function Home() {
               <span className="text-red-500">Pertamina</span>
             </h2>
             <p className="text-gray-500 leading-relaxed mb-4">
-              Program Kerja Praktik (KP) di PT Pertamina (Persero) memberikan kami
+              Program Kerja Praktik (KP) di PSTB memberikan kami
               kesempatan luar biasa untuk belajar langsung di salah satu perusahaan
               energi terbesar di Indonesia.
             </p>
@@ -93,26 +92,11 @@ export default function Home() {
               👥 Kenali Tim Kami
             </Link>
           </div>
-          <div className="grid grid-cols-2 gap-4">
+          <div className="w-full h-full rounded-2xl overflow-hidden shadow-xl">
             <img
-              src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
+              src="https://i.postimg.cc/CKBNFHk7/MCL04072.jpg"
               alt="Team work"
-              className="rounded-2xl shadow-lg w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
-            />
-            <img
-              src="https://images.unsplash.com/photo-1543269865-cbf427effbad?w=400&q=80"
-              alt="Discussion"
-              className="rounded-2xl shadow-lg w-full h-48 object-cover mt-8 hover:scale-105 transition-transform duration-300"
-            />
-            <img
-              src="https://images.unsplash.com/photo-1560439514-4e9645039924?w=400&q=80"
-              alt="Presentation"
-              className="rounded-2xl shadow-lg w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
-            />
-            <img
-              src="https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=400&q=80"
-              alt="Outing"
-              className="rounded-2xl shadow-lg w-full h-48 object-cover mt-8 hover:scale-105 transition-transform duration-300"
+              className="w-full h-full min-h-[400px] object-cover hover:scale-105 transition-transform duration-500"
             />
           </div>
         </div>
@@ -121,7 +105,7 @@ export default function Home() {
       {/* CTA Section */}
       <section className="bg-gradient-to-r from-red-500 to-orange-500 py-16 text-white">
         <div className="max-w-3xl mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold mb-4">Jelajahi Kenangan Kami</h2>
+          <h2 className="text-3xl font-bold mb-4">Jelajahi cerita Kami</h2>
           <p className="text-white/80 mb-8">
             Lihat koleksi foto, perjalanan timeline, dan kenali anggota tim yang luar biasa ini.
           </p>

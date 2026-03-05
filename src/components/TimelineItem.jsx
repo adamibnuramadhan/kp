@@ -16,6 +16,11 @@ export default function TimelineItem({ item, index }) {
             alt={item.title}
             className="w-full h-40 object-cover rounded-xl"
             loading="lazy"
+            crossOrigin="anonymous"
+            onError={(e) => {
+              console.error(`Gagal memuat gambar: ${item.photo}`)
+              e.target.style.display = 'none'
+            }}
           />
         )}
       </div>

@@ -1,84 +1,84 @@
 [
   {
     "id": 1,
-    "name": "Budi Santoso",
-    "role": "Mahasiswa Teknik Kimia",
-    "description": "Bertanggung jawab dalam analisis proses produksi dan optimasi sistem refinery.",
+    "name": "Adam",
+    "role": "Mahasiswa Sistem Informasi",
+    "description": "Penghuni Ruang IT.",
     "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80"
   },
   {
     "id": 2,
-    "name": "Siti Rahayu",
+    "name": "Bila",
     "role": "Mahasiswi Teknik Industri",
     "description": "Fokus pada peningkatan efisiensi operasional dan manajemen rantai pasok.",
     "photo": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&q=80"
   },
   {
     "id": 3,
-    "name": "Ahmad Fauzi",
+    "name": "Bina",
     "role": "Mahasiswa Teknik Mesin",
     "description": "Mengerjakan proyek perawatan mesin dan sistem mekanikal di fasilitas produksi.",
     "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80"
   },
   {
     "id": 4,
-    "name": "Dewi Kusuma",
+    "name": "Dika",
     "role": "Mahasiswi Sistem Informasi",
     "description": "Mengembangkan sistem digital untuk monitoring dan pelaporan data operasional.",
     "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80"
   },
   {
     "id": 5,
-    "name": "Rizky Pratama",
+    "name": "Kaela",
     "role": "Mahasiswa Teknik Elektro",
     "description": "Berfokus pada sistem instrumentasi dan kontrol di unit pengolahan.",
     "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80"
   },
   {
     "id": 6,
-    "name": "Nurul Hidayah",
+    "name": "Kevin",
     "role": "Mahasiswi Akuntansi",
     "description": "Membantu departemen keuangan dalam pelaporan dan analisis anggaran proyek.",
     "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80"
   },
   {
     "id": 7,
-    "name": "Fajar Ramadhan",
+    "name": "Kimberly",
     "role": "Mahasiswa Teknik Informatika",
     "description": "Mengembangkan aplikasi internal untuk mendukung proses bisnis perusahaan.",
     "photo": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&q=80"
   },
   {
     "id": 8,
-    "name": "Rina Marlina",
+    "name": "Muti",
     "role": "Mahasiswi Teknik Lingkungan",
     "description": "Menganalisis dampak lingkungan dan mendukung program kepatuhan HSE perusahaan.",
     "photo": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80"
   },
   {
     "id": 9,
-    "name": "Hendra Wijaya",
+    "name": "Nichol",
     "role": "Mahasiswa Manajemen",
     "description": "Membantu tim manajerial dalam perencanaan strategis dan analisis kinerja.",
     "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&q=80"
   },
   {
     "id": 10,
-    "name": "Putri Ayu",
+    "name": "Putri",
     "role": "Mahasiswi Teknik Kimia",
     "description": "Melakukan riset formulasi bahan bakar dan pengujian kualitas produk kilang.",
     "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80"
   },
   {
     "id": 11,
-    "name": "Dimas Arya",
+    "name": "Sarah",
     "role": "Mahasiswa Teknik Sipil",
     "description": "Terlibat dalam proyek konstruksi dan pemeliharaan infrastruktur fasilitas produksi.",
     "photo": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=400&q=80"
   },
   {
     "id": 12,
-    "name": "Laila Fitri",
+    "name": "Sisca",
     "role": "Mahasiswi Hubungan Internasional",
     "description": "Mendukung departemen komunikasi korporat dan hubungan eksternal perusahaan.",
     "photo": "https://images.unsplash.com/photo-1554151228-14d9def656e4?w=400&q=80"
