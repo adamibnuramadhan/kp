@@ -20,7 +20,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-gradient-to-br from-red-900/80 via-red-700/70 to-orange-600/60" />
         <div className="relative z-10 text-center text-white px-4 max-w-3xl mx-auto animate-slide-up">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm mb-6">
-            <span>⛽</span> Kerja Praktik 2025
+            <span>⛽</span> Kerja Praktik 2026
           </div>
           <h1 className="text-4xl md:text-6xl font-extrabold mb-4 leading-tight">
             <span className="block bg-gradient-to-r from-yellow-300 to-orange-300 bg-clip-text text-transparent">
