@@ -16,4 +16,8 @@ export default defineConfig({
       '.netlify.app',
     ],
   },
+  build: {
+    outDir: 'dist',
+    sourcemap: false,
+  },
 })
